@@ -69,7 +69,7 @@ def main_app():
         st.markdown("## About Us")
         #st.image("college_logo.png", width=100)
         st.markdown("""
-        Welcome to the **Relative Grading System**, a final-year project developed by students of the **Department of Computer Science and Engineering**.
+        Welcome to the **Relative Grading System**
     
         ### 🎯 Objective
         Our aim is to simplify the grading process by:
@@ -77,15 +77,6 @@ def main_app():
         - Assigning relative grades using statistical analysis.
         - Providing downloadable, section-wise results.
         - Offering easy search and visualizations.
-    
-        ### 👥 Team
-        - **Sivamanikanta** – Developer & Data Analyst  
-        - Guided by: *[Your Mentor/Professor's Name]*
-    
-        ### 🏫 Institution
-        Department of CSE  
-        [Your College/University Name]  
-        [Location, Year]
     
         Thank you for using our tool!
         """)
@@ -281,7 +272,7 @@ def main_app():
     
     # Footer
     st.markdown("---")
-    st.markdown("<p style='text-align:center;'>© 2025 - Sivamanikanta | Dept. of CSE | 3rd Year Project</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align:center;'>© 2025 -|Project|</p>", unsafe_allow_html=True)
 
 
 # Entry point
