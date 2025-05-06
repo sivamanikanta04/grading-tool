@@ -13,4 +13,4 @@ From your terminal or command prompt, navigate to your app folder, then run
 
 Run the code in the command prompt or new terminal 
 |-------------------------------------------------|
--streamlit run app.py
+- streamlit run app.py
